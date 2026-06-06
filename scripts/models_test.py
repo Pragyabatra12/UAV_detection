@@ -2,9 +2,7 @@
 #  -*- coding: utf-8 -*-
 
 '''
-Anomaly Detection of GPS Spoofing Attacks on UAVs
-Authors: Lior Pizman & Yehuda Pashay
-GitHub: https://github.com/liorpizman/AnomalyDetection
+Anomaly Detection of GPS Spoofing Attacks on UAV
 DataSets: 1. ADS-B dataset 2. simulated data
 ---
 Run test scripts on different machine learning models
